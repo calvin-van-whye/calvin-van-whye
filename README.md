@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/calvin-van-whye](https://github.com/calvin-van-whye)
 
-- 💬 Ask me about **React, Next.js, Typescript, API's, Node.js, Relational Databases, SQL and fullstack web development.**
+- 💬 Ask me about **React, Next.js, Typescript, API's, Node.js, Relational Databases, SQL and Fullstack Web Development.**
 
 - 📫 How to reach me **cnvwhye.ckvw@gmail.com**
 
